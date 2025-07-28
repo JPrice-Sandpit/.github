@@ -1,0 +1,38 @@
+name: Add SECURITY.md to Repository
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*'  # Trigger on any change within the repository
+
+jobs:
+  add-security-md:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checkout the repository to modify it
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      # Check if SECURITY.md file exists, and create it if not
+      - name: Check if SECURITY.md exists
+        id: security_check
+        run: |
+          if [ ! -f SECURITY.md ]; then
+            echo "SECURITY.md does not exist. Creating it."
+            echo -e "# Security Policy\n\n## Reporting Security Vulnerabilities\n\nIf you discover a security vulnerability in this repository, please contact us via email at security@example.com." > SECURITY.md
+          else
+            echo "SECURITY.md file already exists."
+          fi
+
+      # Commit and push the SECURITY.md if it was created
+      - name: Commit and push SECURITY.md
+        if: steps.security_check.outputs.result != 'SECURITY.md exists'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add SECURITY.md
+          git commit -m "Add SECURITY.md file"
+          git push
