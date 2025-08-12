@@ -22,12 +22,12 @@ This file outlines the security-related information for this repository and shou
 - **Privacy Impact Assessment (PIA) Rating**:  
   _Determined by Privacy Team through PIA processes._
   
-> High-level process triggers for engaging Cyber Governance or Security Operations.
+> Cyber Governance or Security Operations must be engaged to review and update existing risk assessments when key changes are made or new features introduced.
   - **Triggers for Review:**  
-  - Major architectural changes  
-  - Third-party integration  
-  - Handling of sensitive data  
-  - New API exposed  
+    - Major architectural changes  
+    - Third-party integration  
+    - Handling of sensitive data  
+    - New API exposed  
 - **Last Reviewed By:** Cyber Governance – Jan 2025
 
 ---
@@ -119,7 +119,7 @@ _Current Status:_ **Actively Maintained**
 - **Residual Risk Rating:** e.g., Medium  
 - **Assessment ID:** `CSGP-1234`
 
-> High-level process triggers for engaging Cyber Governance or Security Operations.
+> Cyber Governance or Security Operations must be engaged to review and update existing risk assessments when key changes are made or new features introduced.
   - **Triggers for Review:**  
   - Major architectural changes  
   - Third-party integration  
