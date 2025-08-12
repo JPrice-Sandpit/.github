@@ -5,7 +5,7 @@ This file outlines the security-related information for this repository and shou
 ---
 ## Repository Metadata Overview
 
-### 📦 Repository Information
+### Repository Information
 - **Repository Status**: _Actively Maintained | Operational | To be Archived_
 - **Data Owner(s)**: _Name(s) or Role(s)_
 - **Data Classification**: _Public | Protected | Highly Protected_
@@ -14,23 +14,31 @@ This file outlines the security-related information for this repository and shou
 
 ---
 
-### 🔍 Security & Risk
+### Security & Risk
 
 - **Inherent / Current Risk Assessment Rating**:  
   _Rating assigned via Cyber Governance processes (e.g., Low / Medium / High / Extreme)_
 
 - **Privacy Impact Assessment (PIA) Rating**:  
   _Determined by Privacy Team through PIA processes._
+  
+> High-level process triggers for engaging Cyber Governance or Security Operations.
+  - **Triggers for Review:**  
+  - Major architectural changes  
+  - Third-party integration  
+  - Handling of sensitive data  
+  - New API exposed  
+- **Last Reviewed By:** Cyber Governance – Jan 2025
 
 ---
 
-### 📁 Data Governance
+### Data Governance
 
 - **Data Retention Requirements**:  
   _Refer to RDMP if available (e.g., "Per RDMP-12345: Retain for 7 years")_
 
 
-### 🧩 Software Bill of Materials (SBOM)
+### Software Bill of Materials (SBOM)
 > Key components, integrations, and third-party dependencies.
 
 - **Critical Dependencies:**  
@@ -43,15 +51,16 @@ This file outlines the security-related information for this repository and shou
 
 ---
 
-## 📚 References and Links
-- **University Cybersecurity Policy:** [Link](https://university.edu.au/policy/cybersecurity)
-- **Information Classification Standard:** [Link](https://university.edu.au/standards/info-classification)
-- **RDMP Guidance:** [Link](https://university.edu.au/rdmp)
-- **Report a Security Incident:** [https://university.edu.au/report-security](https://university.edu.au/report-security)
+## References and Links
+- **University Cybersecurity Policy:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
+- **Information Classification Standard:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
+- **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
+- **RDMP Guidance:** [Link](https://intranet.sydney.edu.au/research-support/managing-research/research-data-management.html)
+- **Report a Security Incident:** [Report to Cyber Security](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
 
 ---
 
-_**For any updates to this document, coordinate with the Cyber Governance team.**_
+_**For any format updates to this document, coordinate with the Cyber Governance team.**_
 
 
 
@@ -88,7 +97,7 @@ _Current Status:_ **Actively Maintained**
 ---
 
 ##  Business Criticality
-> As defined in ServiceNow or by enterprise architecture standards.
+> As defined in ServiceNow or by Enterprise Architecture Standards and Business Impact Assessments.
 
 - **Criticality Level:** Low / Medium / Business Critical / Mission Critical/ Core Infrastructure  
 
@@ -102,11 +111,12 @@ _Current Status:_ **Actively Maintained**
 - **Linked Services:** Storage Gateway, Identity Management, S3 Archive
 
 ---
+
 ## ⚠️ Risk Assessment Rating
 > From formal Cyber Governance assessments.
 
-- **Inherent Risk Rating:**  Low / Medium / High / Critical
-- **Residual Risk Rating:** Medium  
+- **Inherent Risk Rating:**  Low / Medium / High / Extreme
+- **Residual Risk Rating:** e.g., Medium  
 - **Assessment ID:** `CSGP-1234`
 
 > High-level process triggers for engaging Cyber Governance or Security Operations.
@@ -120,7 +130,7 @@ _Current Status:_ **Actively Maintained**
 ---
 
 ##  Data Retention Requirements
-> Refer to the Records & Data Management Plan (RDMP).
+> Refer to the Records & Data Management Plan (RDMP) if available.
 
 - **Retention Period:** 7 years  
 - **RDMP Reference:** `RDMP-2025-017`  
@@ -141,12 +151,13 @@ _Current Status:_ **Actively Maintained**
 ---
 
 ## 📚 References and Links
-- **University Cybersecurity Policy:** [Link](https://university.edu.au/policy/cybersecurity)
-- **Information Classification Standard:** [Link](https://university.edu.au/standards/info-classification)
-- **RDMP Guidance:** [Link](https://university.edu.au/rdmp)
-- **Report a Security Incident:** [https://university.edu.au/report-security](https://university.edu.au/report-security)
+- **University Cybersecurity Policy:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
+- **Information Classification Standard:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
+- **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
+- **RDMP Guidance:** [Link](https://intranet.sydney.edu.au/research-support/managing-research/research-data-management.html)
+- **Report a Security Incident:** [Report to Cyber Security](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
 
 ---
 
-_**For any updates to this document, coordinate with the Cyber Governance team.**_
+_**For any format updates to this document, coordinate with the Cyber Governance team.**_
 
