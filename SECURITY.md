@@ -5,7 +5,7 @@ This file outlines the security-related information for this repository and shou
 ---
 ## Repository Metadata Overview
 
-### Repository Information
+## Repository Information
 - **Repository Status**: _Actively Maintained | Operational | To be Archived_
 - **Data Owner(s)**: _Name(s) or Role(s)_
 - **Data Classification**: _Public | Protected | Highly Protected_
@@ -37,6 +37,7 @@ This file outlines the security-related information for this repository and shou
 - **Data Retention Requirements**:  
   _Refer to RDMP if available (e.g., "Per RDMP-12345: Retain for 7 years")_
 
+---
 
 ### Software Bill of Materials (SBOM)
 > Key components, integrations, and third-party dependencies.
@@ -83,7 +84,7 @@ This file outlines the security-related information for this repository and shou
 
 ---
 
-## 📌 Repository Status
+## Repository Status
 > _Select one of the following statuses:_
 - **Actively Maintained**
 - **Operational**
@@ -93,7 +94,7 @@ _Current Status:_ **Actively Maintained**
 
 ---
 
-## 👤 Data Owner(s)
+## Data Owner(s)
 > List of business or technical owners responsible for the data.
 
 - Name: Jane Doe  
@@ -102,14 +103,14 @@ _Current Status:_ **Actively Maintained**
 
 ---
 
-## 🔐 Data Classification
+## Data Classification
 > Based on the University's Information Classification Framework.
 
 - **Classification:** Highly Protected / Protected / Public
 
 ---
 
-##  Business Criticality
+## Business Criticality
 > As defined in ServiceNow or by Enterprise Architecture Standards and Business Impact Assessments.
 
 - **Criticality Level:** Low / Medium / Business Critical / Mission Critical/ Core Infrastructure  
@@ -125,7 +126,7 @@ _Current Status:_ **Actively Maintained**
 
 ---
 
-## ⚠️ Risk Assessment Rating
+## Risk Assessment Rating
 > From formal Cyber Governance assessments.
 
 - **Inherent Risk Rating:**  Low / Medium / High / Extreme
@@ -150,7 +151,7 @@ _Current Status:_ **Actively Maintained**
 
 ---
 
-### 🧩 Software Bill of Materials (SBOM)
+### Software Bill of Materials (SBOM)
 > Key components, integrations, and third-party dependencies.
 
 - **Critical Dependencies:**  
@@ -164,7 +165,7 @@ _Current Status:_ **Actively Maintained**
 
 ---
 
-## 📚 References and Links
+## References and Links
 - **University Cyber Security Policy:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
 - **University Cyber Security Standards:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
 - **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
