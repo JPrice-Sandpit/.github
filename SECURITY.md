@@ -37,7 +37,7 @@ This file outlines the security-related information for this repository and shou
 ### Data Governance
 
 - **Data Retention Requirements**:  
-  _Refer to RDMP if available (e.g., "Per RDMP-12345: Retain for 7 years")_
+  _Refer to the Records & Data Management Plan (RDMP) if available (e.g., "Per RDMP-12345: Retain for 7 years")_
 
 ---
 
