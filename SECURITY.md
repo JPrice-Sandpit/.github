@@ -53,8 +53,8 @@ This file outlines the security-related information for this repository and shou
 ---
 
 ## References and Links
-- **University Cybersecurity Policy:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
-- **Information Classification Standard:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
+- **University Cyber Security Policy:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
+- **University Cyber Security Standards:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
 - **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
 - **RDMP Guidance:** [Link](https://intranet.sydney.edu.au/research-support/managing-research/research-data-management.html)
 
@@ -165,8 +165,8 @@ _Current Status:_ **Actively Maintained**
 ---
 
 ## 📚 References and Links
-- **University Cybersecurity Policy:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
-- **Information Classification Standard:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
+- **University Cyber Security Policy:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
+- **University Cyber Security Standards:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
 - **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
 - **RDMP Guidance:** [Link](https://intranet.sydney.edu.au/research-support/managing-research/research-data-management.html)
 
