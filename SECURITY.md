@@ -48,6 +48,7 @@ This file outlines the security-related information for this repository and shou
   - Azure AD for Authentication  
   - AWS S3 Cold Storage  
 - **Link to Full SBOM:** [View SBOM](./sbom.json)
+> It is recommended best practice to include a SBOM file into your repository for software development and supply chain security. 
 
 ---
 
@@ -147,6 +148,7 @@ _Current Status:_ **Actively Maintained**
   - Azure AD for Authentication  
   - AWS S3 Cold Storage  
 - **Link to Full SBOM:** [View SBOM](./sbom.json)
+> It is recommended best practice to include a SBOM file into your repository for software development and supply chain security.
 
 ---
 
