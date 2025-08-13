@@ -1,3 +1,5 @@
+# Option 1:
+
 # Security Information
 
 This file outlines the security-related information for this repository and should be updated as the repository's context, ownership, and risk profile evolves.
@@ -76,7 +78,7 @@ _**For any format updates to this document, coordinate with the Cyber Governance
 
 
 
-
+# Option 2:
 
 # Security Information
 
