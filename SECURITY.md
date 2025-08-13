@@ -57,7 +57,7 @@ This file outlines the security-related information for this repository and shou
 - **Information Classification Standard:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
 - **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
 - **RDMP Guidance:** [Link](https://intranet.sydney.edu.au/research-support/managing-research/research-data-management.html)
-- **Report a Security Incident:** [Report to Cyber Security](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
+- **Report a Security Incident:** [Link](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
 
 ---
 
@@ -157,7 +157,7 @@ _Current Status:_ **Actively Maintained**
 - **Information Classification Standard:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
 - **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
 - **RDMP Guidance:** [Link](https://intranet.sydney.edu.au/research-support/managing-research/research-data-management.html)
-- **Report a Security Incident:** [Report to Cyber Security](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
+- **Report a Security Incident:** [Link](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
 
 ---
 
