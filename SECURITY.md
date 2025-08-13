@@ -57,11 +57,23 @@ This file outlines the security-related information for this repository and shou
 - **Information Classification Standard:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
 - **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
 - **RDMP Guidance:** [Link](https://intranet.sydney.edu.au/research-support/managing-research/research-data-management.html)
-- **Report a Security Incident:** [Link](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
+
+## Report a Security Incident or Vulnerability
+
+**To report a security issue, please use the Report a Cyber Security Incident in ServiceNow:** [Link](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
+
+The Security Opertations team will send a response indicating the next steps in handling your report. After the initial reply to your report, the security team will keep you informed and collaborate with you as required to progress towards a fix, and may ask for additional information to provide guidance.
+
 
 ---
 
 _**For any format updates to this document, coordinate with the Cyber Governance team.**_
+
+---
+
+
+
+
 
 
 
@@ -157,7 +169,12 @@ _Current Status:_ **Actively Maintained**
 - **Information Classification Standard:** [Link](https://intranet.sydney.edu.au/services/it-phones/cyber-security/policy-and-procedures.html)
 - **Business Criticality Scale:** [Link](https://sydneyuni.service-now.com/sm?id=kb_article_view&sysparm_article=KB0028955)
 - **RDMP Guidance:** [Link](https://intranet.sydney.edu.au/research-support/managing-research/research-data-management.html)
-- **Report a Security Incident:** [Link](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
+
+## Report a Security Incident or Vulnerability
+
+**To report a security issue, please use the Report a Cyber Security Incident in ServiceNow:** [Link](https://sydneyuni.service-now.com/sm?id=sc_cat_item&sys_id=ce467005db3c40909909abf34a9619d6&sysparm_category=a98d07b8dbd0b3002d38cae43a961964)
+
+The Security Opertations team will send a response indicating the next steps in handling your report. After the initial reply to your report, the security team will keep you informed and collaborate with you as required to progress towards a fix, and may ask for additional information to provide guidance.
 
 ---
 
