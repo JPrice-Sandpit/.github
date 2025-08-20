@@ -21,8 +21,8 @@ This file outlines the security-related information for this repository and shou
 - **Inherent / Current Risk Assessment Rating**:  
   _Rating assigned via Cyber Governance processes (e.g., Low / Medium / High / Extreme)_
 
-- **Privacy Impact Assessment (PIA) Rating**:  
-  _Determined by Privacy Team through PIA processes._
+- **Privacy Risk Rating**:  
+  _Determined by Privacy Team through PIA processes.(e.g., Low / Medium / High)_
   
 > Cyber Governance or Security Operations must be engaged to review and update existing risk assessments when key changes are made or new features introduced.
   - **Triggers for Review:**  
