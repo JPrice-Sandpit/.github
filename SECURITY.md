@@ -13,7 +13,7 @@ This file outlines the security-related information for this repository and shou
 - **Data Classification**: _Public | Protected | Highly Protected_
 - **Business Criticality**: _Low | Medium | Business Critical | Mission Critical | Core Infrastructure_
 - **ServiceNow CMDB Reference**: _[Business Application Name or CI Reference]_
-- **App Context Tag**: _4 letter code _
+- **App Context Tag**: _Unique 4 letter code representing the application_
 
 ---
 
